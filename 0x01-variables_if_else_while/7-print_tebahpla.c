@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
  * mai - Entry point
- * Return: - Always (0)
+ * Printing letters in revers
+ * Return:  Always (0)
  */
 
 int main(void)
