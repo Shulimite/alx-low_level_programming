@@ -1,7 +1,7 @@
-#include "main.h" 
+#include "main.h"
 /**
- * main - Entry point
- * Writing a program
+ * main - print _putchar
+ * Creating an output program
  * Result: Always (0)
  */
 
